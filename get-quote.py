@@ -7,5 +7,8 @@ def og():
 
   #print(quotes)
 
-if __name__== "__og__":
+if __name__== "__main__":
   og()
+git addd get-quote.py
+git commit -m "Renamed the primary function"
+git push
