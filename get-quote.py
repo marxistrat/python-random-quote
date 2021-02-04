@@ -1,4 +1,4 @@
-def main():
+def og():
   # print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,7 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  og()
+git addd get-quote.py
+git commit -m "Renamed the primary function"
+git push
